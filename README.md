@@ -146,10 +146,6 @@ __interrupt void ADC12_ISR(void)
 
 See the [LICENSE](https://github.com/meenchen/failure-resilient-OS/blob/master/LICENSE) file for license rights and limitations
 
-
-## Contributors
-
-
 ## Contact
 
 If you have any questions or comments, please contact Xin-You Liu at xyliu@citi.sinica.edu.tw.
